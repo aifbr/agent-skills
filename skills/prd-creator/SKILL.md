@@ -2,8 +2,11 @@
 name: prd-creator
 description: Create a concise PRD from a rough idea through a short structured interview. Use when the user has an idea but scope, users, constraints, or success criteria are still unclear.
 credits:
-  - name: Bruno Gonzaga / AIFBR
-    role: Creation, curation, and public adaptation.
+  - name: Brian Casel / Builder Methods
+    role: Original PRD Creator method.
+    url: https://buildermethods.com/prd-creator
+  - name: AIFBR
+    role: Public adaptation and installer packaging.
 ---
 
 # PRD Creator
@@ -46,4 +49,5 @@ Use this structure:
 
 ## Credits
 
-- Bruno Gonzaga / AIFBR: creation, curation, and public adaptation.
+- Brian Casel / Builder Methods: original PRD Creator method. https://buildermethods.com/prd-creator
+- AIFBR: public adaptation and installer packaging.

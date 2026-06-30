@@ -41,7 +41,7 @@ curl -fsSL https://raw.githubusercontent.com/aifbr/agent-skills/main/install.sh 
 
 | Skill | Créditos |
 | --- | --- |
-| `prd-creator` | Bruno Gonzaga / AIFBR: criação, curadoria e adaptação pública. |
+| `prd-creator` | [Brian Casel / Builder Methods](https://buildermethods.com/prd-creator): método original PRD Creator; AIFBR: adaptação pública e instalação. |
 | `to-prd` | [Matt Pocock Skills](https://github.com/mattpocock/skills): base conceitual; AIFBR: adaptação pública e instalação. |
 | `to-issues` | [Matt Pocock Skills](https://github.com/mattpocock/skills): base conceitual; AIFBR: adaptação pública e instalação. |
 | `grill-me-with-docs` | [Matt Pocock Skills](https://github.com/mattpocock/skills): base conceitual do fluxo `grill-with-docs`; AIFBR: adaptação pública e instalação. |
