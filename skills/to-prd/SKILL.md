@@ -1,6 +1,12 @@
 ---
 name: to-prd
 description: Turn settled conversation context into a concise PRD without interviewing. Use when the context is already clear and the user wants it captured as a product requirements document.
+credits:
+  - name: Matt Pocock Skills
+    role: Conceptual base.
+    url: https://github.com/mattpocock/skills
+  - name: AIFBR
+    role: Public adaptation and installer packaging.
 ---
 
 # To PRD
@@ -29,3 +35,8 @@ Synthesize existing context into a PRD.
 ## Dependencies
 ## Open questions
 ```
+
+## Credits
+
+- Matt Pocock Skills: conceptual base. https://github.com/mattpocock/skills
+- AIFBR: public adaptation and installer packaging.

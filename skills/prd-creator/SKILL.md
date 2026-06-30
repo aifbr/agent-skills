@@ -1,6 +1,9 @@
 ---
 name: prd-creator
 description: Create a concise PRD from a rough idea through a short structured interview. Use when the user has an idea but scope, users, constraints, or success criteria are still unclear.
+credits:
+  - name: Bruno Gonzaga / AIFBR
+    role: Creation, curation, and public adaptation.
 ---
 
 # PRD Creator
@@ -40,3 +43,7 @@ Use this structure:
 ## Risks
 ## Open questions
 ```
+
+## Credits
+
+- Bruno Gonzaga / AIFBR: creation, curation, and public adaptation.

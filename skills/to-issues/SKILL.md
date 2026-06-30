@@ -1,6 +1,12 @@
 ---
 name: to-issues
 description: Break a PRD or plan into small implementation issues. Use when the user wants a plan converted into independently executable work.
+credits:
+  - name: Matt Pocock Skills
+    role: Conceptual base.
+    url: https://github.com/mattpocock/skills
+  - name: AIFBR
+    role: Public adaptation and installer packaging.
 ---
 
 # To Issues
@@ -23,3 +29,8 @@ Break a plan into small vertical slices.
 ## Acceptance criteria
 ## Validation
 ```
+
+## Credits
+
+- Matt Pocock Skills: conceptual base. https://github.com/mattpocock/skills
+- AIFBR: public adaptation and installer packaging.

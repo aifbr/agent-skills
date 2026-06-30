@@ -1,6 +1,12 @@
 ---
 name: grill-me-with-docs
 description: Stress-test a plan against project docs, decisions, and domain language before implementation.
+credits:
+  - name: Matt Pocock Skills
+    role: Conceptual base for the grill-with-docs flow.
+    url: https://github.com/mattpocock/skills
+  - name: AIFBR
+    role: Public adaptation and installer packaging.
 ---
 
 # Grill Me With Docs
@@ -22,3 +28,8 @@ Challenge a plan before it becomes code.
 - What must keep working?
 - What is reversible?
 - What validation proves this is correct?
+
+## Credits
+
+- Matt Pocock Skills: conceptual base for the `grill-with-docs` flow. https://github.com/mattpocock/skills
+- AIFBR: public adaptation and installer packaging.
